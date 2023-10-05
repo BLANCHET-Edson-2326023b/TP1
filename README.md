@@ -1,4 +1,4 @@
-# **FAIRPHONE*** 
+# **FAIRPHONE**
 
 
 **Fondation et Objectifs**
