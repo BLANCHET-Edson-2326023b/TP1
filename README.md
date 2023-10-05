@@ -3,7 +3,7 @@
 
 **Fondation et Objectifs**
 
-
+![alt text](http://url/to/img.png)
 
 L'histoire de Fairphone commence en **2010**, lorsque Bas van Abel, un entrepreneur néerlandais passionné par la technologie et la durabilité, décide de lancer une entreprise révolutionnaire. Son objectif était de transformer l'industrie de la technologie en produisant des smartphones éthiques et durables. ***Bas van Abel*** croyait fermement que les consommateurs avaient le pouvoir de provoquer un changement positif en exigeant des produits électroniques plus responsables.
 
