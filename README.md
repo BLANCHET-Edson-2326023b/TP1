@@ -41,6 +41,7 @@ Depuis sa création, ***Fairphone*** s'est engagée à repenser l'ensemble de la
 
 Le lancement du ***Fairphone*** 2 en 2015 a consolidé la réputation de l'entreprise en tant que leader de la durabilité technologique. Ce modèle a été salué pour sa réparabilité exceptionnelle, permettant aux utilisateurs de remplacer facilement des composants tels que l'écran ou la batterie, prolongeant ainsi la durée de vie de l'appareil.
 
+![](fp2.jpg)
 
 ***Fairphone*** a également cherché à avoir un impact social positif en soutenant les initiatives visant à améliorer les conditions de travail dans les mines, à encourager la réparation et le recyclage des appareils électroniques, ainsi qu'à promouvoir la transparence dans les chaînes d'approvisionnement.
 
